@@ -4,26 +4,19 @@ with open('input.txt') as file:
     for line in file:
         line = line.strip()
         frequency.append(line)
-        
-frequency.extend(frequency)
-frequency.extend(frequency)
-frequency.extend(frequency)
-frequency.extend(frequency)
-frequency.extend(frequency)
-frequency.extend(frequency)
-frequency.extend(frequency)
-frequency.extend(frequency)
-
 
 start = 0
-freq = []
-
-for line in frequency:
-     start += int(line)
+j = 0
+freq = {0 : True}
+while True:
+     start += int(frequency[j])
      if start in freq:
          print("duplicate:")
          print(start)
          break
      else:
-         freq.append(start)
+         freq[start] = True
+     j += 1
+     if j == len(frequency):
+     	j = 0
 file.close()
