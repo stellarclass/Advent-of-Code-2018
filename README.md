@@ -22,3 +22,9 @@ I thought I'd keep track of what I learned every day with each set of puzzles, s
 * Iterating over it is probably the wrong way to do things (or at least an inefficient way) but it got the job done
 * This didn't make a difference but thinking in a coordinate system that isn't like x goes up towards the right and y goes up towards the up is really weird
 * Also, files that have weird delimiters are like why would you do this, but I guess they're more human-readable
+
+## Day 4
+
+* I HATE DATETIMES
+* no seriously, why is it so difficult to subtract datetimes from one another
+* also why is it difficult to convert datetime to an int
