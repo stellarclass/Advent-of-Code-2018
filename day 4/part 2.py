@@ -95,4 +95,4 @@ for i in range(len(time)):
         
 print(df.values.max())
 
-print(19*1901)
+print(51*1901)

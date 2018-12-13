@@ -28,3 +28,10 @@ I thought I'd keep track of what I learned every day with each set of puzzles, s
 * I HATE DATETIMES
 * no seriously, why is it so difficult to subtract datetimes from one another
 * also why is it difficult to convert datetime to an int
+
+## Day 5
+
+* learned about stacks!
+* pop and append are kind of useful
+* I probably didn't do it quite right but hey it works
+* originally I was going to do something ridiculously nonsensically complicated for part 2 but then Dana set me onto a better path
