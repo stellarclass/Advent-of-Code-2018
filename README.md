@@ -35,3 +35,8 @@ I thought I'd keep track of what I learned every day with each set of puzzles, s
 * pop and append are kind of useful
 * I probably didn't do it quite right but hey it works
 * originally I was going to do something ridiculously nonsensically complicated for part 2 but then Dana set me onto a better path
+
+## Day 6
+
+* played with some numpy arrays to get used to them
+* had more trouble with manhattan distance than anything else, once I got my head around the problem (order of operations is important - who knew!)
